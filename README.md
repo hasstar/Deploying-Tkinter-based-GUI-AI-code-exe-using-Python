@@ -1,7 +1,7 @@
 # Deploying-Tkinter-based-GUI-AI-code-exe-using-Python
 Deploying Tkinter-based GUI AI code (exe) using Python
 
-注意，本工程不使用QI包，使用TKinter部署。
+注意，本工程不使用QT包，使用TKinter部署。
 
 
 PyTorch训练(.pth)
